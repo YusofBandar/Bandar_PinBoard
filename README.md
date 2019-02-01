@@ -1,2 +1,2 @@
 # Bandar_PinBoard
-A collection of my public bookmarks
+A collection of my public bookmarks.
