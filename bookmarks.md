@@ -1,6 +1,10 @@
 # Bookmarks 
 
-Take a look
+### Donald Knuth, master of algorithms
+[https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
+
+### Brutalistic Web Design
+[https://brutalist-web.design/](https://brutalist-web.design/)
 
 
 ### Volcano Eruption Data
