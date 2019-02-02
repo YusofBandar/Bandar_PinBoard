@@ -212,3 +212,8 @@ Take a look
 [https://www.youtube.com/watch?v=oHeUpyzdaGs](https://www.youtube.com/watch?v=oHeUpyzdaGs)
 
 ---
+
+### Stephen King Talk From Lovecraft to 50 Shades of Grey
+[https://www.youtube.com/watch?v=l8TkQvdJVbc](https://www.youtube.com/watch?v=l8TkQvdJVbc)
+
+---
