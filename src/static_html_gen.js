@@ -5,7 +5,8 @@ const es = require('event-stream');
 function readBookmarks(filename, callback) {
     let bookmarks = [];
 
-    let bookmarkfound = false;
+    let bookmarkFound = false;
+    let favouriteFound = false
     let title = '';
 
     fs.createReadStream(filename, {
@@ -14,22 +15,32 @@ function readBookmarks(filename, callback) {
         .pipe(es.split()) // split by lines
         .pipe(es.map(function (line, next) {
 
-            if (bookmarkfound) {
+            if (bookmarkFound) {
                 let link = line.match(/\(([^)]+)\)/)[1]
+
+                let bookmark = {}
+
                 bookmarks.push({
                     title,
-                    link
+                    link,
+                    favourite : favouriteFound
                 });
-                bookmarkfound = false;
+
+                favouriteFound = false;
+                bookmarkFound = false;
             } else if (line.startsWith('###')) {
                 title = line.split(' ');
                 title.shift(1);
                 title = title.join(" ")
-                bookmarkfound = true;
+
+                bookmarkFound = true;
+
+                if(line.indexOf('*') > -1){
+                    favouriteFound = true;
+                }
+
+                
             }
-
-
-
             next(null, line);
         })).pipe(es.wait(function (err, body) {
             callback(bookmarks)
@@ -37,7 +48,16 @@ function readBookmarks(filename, callback) {
 
 }
 
-function generateDom(bookmarks) {
+
+function generateIndexPage(bookmarks){
+    writeIndex('../static/index.html',generateIndexDom(bookmarks))
+}
+
+function writeIndex(filename,content){
+    fs.writeFileSync(filename,content);
+}
+
+function generateIndexDom(bookmarks) {
 
     let contentDom = ``
 
@@ -68,6 +88,7 @@ function generateDom(bookmarks) {
     <body>
         <div class="top-bar">
             <h1 class="title">Bandar's Bookmarks</h1>
+            <span><a href="./index.html">Index</a> <a href="./favourite.html">  Favourite</a></span>
         </div>
         <div class="content inline">
             ${contentDom}
@@ -79,11 +100,15 @@ function generateDom(bookmarks) {
     return dom
 }
 
-function writeIndex(filename,content){
-    fs.writeFileSync(filename,content);
+
+
+function generateFavouritePage(bookmarks){
+    let favouriteBookmarks = bookmarks.filter(bookmark => bookmark.favourite);
+    writeIndex('../static/favourite.html',generateIndexDom(favouriteBookmarks))
 }
 
 
 readBookmarks('../bookmarks.md', function (bookmarks) {
-    writeIndex('../static/index.html',generateDom(bookmarks))
+    generateIndexPage(bookmarks)
+    generateFavouritePage(bookmarks)
 })

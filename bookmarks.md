@@ -165,7 +165,7 @@ Take a look
 ----
 
 
-### Amazing Talk On Greek Mythology 
+### Amazing Talk On Greek Mythology *
 [https://www.youtube.com/watch?v=blF0NdSm1lQ](https://www.youtube.com/watch?v=blF0NdSm1lQ)
 
 ----
@@ -213,7 +213,7 @@ Take a look
 
 ---
 
-### Stephen King Talk From Lovecraft to 50 Shades of Grey
+### Stephen King Talk From Lovecraft to 50 Shades of Grey *
 [https://www.youtube.com/watch?v=l8TkQvdJVbc](https://www.youtube.com/watch?v=l8TkQvdJVbc)
 
 ---
