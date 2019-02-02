@@ -51,7 +51,7 @@ Take a look
 ----
 
 
-### Unexpected AI Results
+### Unexpected AI Results *
 [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
 
 ----
@@ -81,7 +81,7 @@ Take a look
 ----
 
 
-### Early Arm Patent 
+### Early Arm Patent *
 [https://patents.google.com/patent/US43590A/en?q=slide&q=slot&q=post&q=telephone&q=contact&before=priority:18990925&num=100&scholar&sort=old](https://patents.google.com/patent/US43590A/en?q=slide&q=slot&q=post&q=telephone&q=contact&before=priority:18990925&num=100&scholar&sort=old)
 
 ----
@@ -135,7 +135,7 @@ Take a look
 ----
 
 
-### Amazing Use of WebGL and A Collection of Awesome and Expensive Pens
+### Amazing Use of WebGL and A Collection of Awesome and Expensive Pens *
 [https://www.montegrappa.com/configuratore/index.php#](https://www.montegrappa.com/configuratore/index.php#)
 
 ----
