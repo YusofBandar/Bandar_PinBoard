@@ -5,30 +5,70 @@ body {
     margin: 0px;
 }
 
-.top-bar{
+.top-bar {
     height: 100px;
     border-bottom: 1px solid #dfe1e5;
+    padding-left: 10px;
+    background-color: #24292e;
+    color: #ffffff;
+    font-weight: 600;
 }
 
-.title{
-    padding: 30px 0px 0px 30px;
+.github-mark {
+    float: right;
+    padding: 10px;
 }
 
-.link{
+.title {
+    float: left;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.header {
+    float: left;
+}
+
+.navigation {
+    float: left;
+    
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.navigation a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.navigation a:hover {
+    color: #cac7c7
+  }
+
+.navigation a:visited {
+    text-decoration: none;
+}
+
+
+.link {
     cursor: pointer;
 }
 
 
 
-.inline{
-    margin-left : 200px;
+.inline {
+    margin-left: 200px;
 }
 
 
 .content {
     min-width: 360px;
     max-width: 600px;
-    margin-top : 100px;
+    margin-top: 100px;
     width: 100%;
 }
 
