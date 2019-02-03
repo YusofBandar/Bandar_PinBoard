@@ -3,10 +3,20 @@
 ### Donald Knuth, master of algorithms *
 [https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html)
 
+---
+
 ### Kaweco Fountain Pens
 [https://www.kaweco-pen.com/](https://www.kaweco-pen.com/)
 
 ---
+
+### Fusion 360 Sketching On Curved Surface
+[https://forums.autodesk.com/t5/fusion-360-design-validate/sketching-and-extruding-on-curved-surface/td-p/6290863](https://forums.autodesk.com/t5/fusion-360-design-validate/sketching-and-extruding-on-curved-surface/td-p/6290863)
+
+---
+
+### Greek Goddess Hera Symbols
+[http://www.goddessgift.com/goddess-myths/goddess_symbols_hera.htm](http://www.goddessgift.com/goddess-myths/goddess_symbols_hera.htm)
 
 ### The biomass distribution on Earth
 [https://www.pnas.org/content/115/25/6506](https://www.pnas.org/content/115/25/6506)
