@@ -14,6 +14,12 @@ body {
     font-weight: 600;
 }
 
+.logo{
+    float: left;
+    height: 50;
+    padding: 5px;
+}
+
 .github-mark {
     float: right;
     padding: 10px;

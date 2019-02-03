@@ -146,12 +146,13 @@ function generateFinalPage(content) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Bandars Bookmarks</title>
-
+    <link rel="icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="./styling.css">
 
     <body>
     <div class="top-bar">
         <div class="title">
+            <a href="./index.html"> <img class="logo" src="images/logo.png" alt="Green Book Logo"></a>
             <h1 class="header">Bandar's Bookmarks</h1>
             <svg height="32" class="github-mark" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true">
                 <a href="https://github.com/YusofBandar/Bandar_PinBoard" target="_blank">

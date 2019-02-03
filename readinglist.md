@@ -18,4 +18,7 @@ Stephen Fry
 ### Heroes
 Stephen Fry
 
+### 12 Rules for Life
+Jordan Peterson
+
 
