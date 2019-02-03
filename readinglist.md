@@ -21,4 +21,7 @@ Stephen Fry
 ### 12 Rules for Life
 Jordan Peterson
 
+### Statistics Done Wrong: The Woefully Complete Guide
+Alex Reinhart
+
 
