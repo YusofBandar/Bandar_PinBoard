@@ -18,8 +18,17 @@
 ### Fusion 360 Projecting On Curved Surface
 [https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/Projecting-a-sketch-to-a-curved-cylinder-in-Fusion-360.html](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/Projecting-a-sketch-to-a-curved-cylinder-in-Fusion-360.html)
 
+---
+
+### Greek Mythology Encyclopedia *
+[https://www.theoi.com/](https://www.theoi.com)
+
+---
+
 ### Greek Goddess Hera Symbols
 [http://www.goddessgift.com/goddess-myths/goddess_symbols_hera.htm](http://www.goddessgift.com/goddess-myths/goddess_symbols_hera.htm)
+
+---
 
 ### The biomass distribution on Earth
 [https://www.pnas.org/content/115/25/6506](https://www.pnas.org/content/115/25/6506)
