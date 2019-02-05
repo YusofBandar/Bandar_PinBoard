@@ -10,6 +10,17 @@
 
 ---
 
+### Python Cheatsheet
+[https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/)
+
+---
+
+### CSS Reference - A visual guide to CSS
+[https://cssreference.io/](https://cssreference.io/)
+
+---
+
+
 ### Fusion 360 Sketching On Curved Surface
 [https://forums.autodesk.com/t5/fusion-360-design-validate/sketching-and-extruding-on-curved-surface/td-p/6290863](https://forums.autodesk.com/t5/fusion-360-design-validate/sketching-and-extruding-on-curved-surface/td-p/6290863)
 
