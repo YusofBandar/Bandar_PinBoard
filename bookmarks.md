@@ -10,8 +10,21 @@
 
 ---
 
+### MIT Talk Disney Imagineering
+[https://m.youtube.com/watch?v=V5uV1vR2M6g](https://m.youtube.com/watch?v=V5uV1vR2M6g)
+
+---
+
+### Talk On The Magic Of Story Telling 
+[https://m.youtube.com/watch?v=Nj-hdQMa3uA](https://m.youtube.com/watch?v=Nj-hdQMa3uA)
+
+
+---
+
 ### Free List of Mqtt Brokers
 [https://github.com/mqtt/mqtt.github.io/wiki/public_brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers)
+
+---
 
 ### Python Cheatsheet
 [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/)
