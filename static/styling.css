@@ -20,9 +20,22 @@ body {
     padding: 5px;
 }
 
-.github-mark {
-    float: right;
-    padding: 10px;
+.github-logo {
+    position: fixed;
+    right: 10px;
+    top: 5px;
+}
+
+.edit-logo{
+    position: fixed;
+    right: 10px;
+    top: 50px;
+}
+
+.clear-button{
+    padding: 0px;
+    background: none;
+    border: none;
 }
 
 .title {

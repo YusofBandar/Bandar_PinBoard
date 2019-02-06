@@ -6,6 +6,9 @@ James Hillman
 ### Sun Tzu On The Art of War
 Sun Tzu
 
+### Tao Te Ching
+Lao Tzu
+
 ### Illiad 
 Homer
 
