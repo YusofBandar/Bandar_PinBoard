@@ -10,6 +10,9 @@
 
 ---
 
+### Free List of Mqtt Brokers
+[https://github.com/mqtt/mqtt.github.io/wiki/public_brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers)
+
 ### Python Cheatsheet
 [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/)
 
