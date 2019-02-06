@@ -21,6 +21,12 @@
 
 ---
 
+### How a Book Gets the Perfect Cover
+[https://www.nytimes.com/2019/02/06/books/cover-stories.html?rref=collection%2Fsectioncollection%2Farts&action=click&contentCollection=arts&region=stream&module=stream_unit&version=latest&contentPlacement=9&pgtype=sectionfront](https://www.nytimes.com/2019/02/06/books/cover-stories.html?rref=collection%2Fsectioncollection%2Farts&action=click&contentCollection=arts&region=stream&module=stream_unit&version=latest&contentPlacement=9&pgtype=sectionfront)
+
+---
+
+
 ### Free List of Mqtt Brokers
 [https://github.com/mqtt/mqtt.github.io/wiki/public_brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers)
 
