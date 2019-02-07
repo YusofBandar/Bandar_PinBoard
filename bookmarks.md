@@ -32,6 +32,11 @@
 
 ---
 
+### JavaScript Event Emitter Gist
+[https://gist.github.com/YusofBandar/b9cb4e2ae34f2925d5f288f9d3c6d47c](https://gist.github.com/YusofBandar/b9cb4e2ae34f2925d5f288f9d3c6d47c)
+
+---
+
 ### Python Cheatsheet
 [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/)
 
