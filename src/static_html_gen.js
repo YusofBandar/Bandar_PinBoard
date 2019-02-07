@@ -121,13 +121,16 @@ function generateIndexDom(bookmarks) {
     let contentDom = ``
 
     bookmarks.forEach(bookmark => {
+
+
+
         let bookmarkDom =
             `
         <div class="bookmark">
             <div class="bookmarkTitle">
                 <a class="bookmarkTitleLink" target="_blank" href="${bookmark.link}">${bookmark.title}</a>
             </div>
-            <a class="bookmarkURI" target="_blank" href="${bookmark.link}">${bookmark.link}</a>
+            <a class="bookmarkURI" target="_blank" href="${bookmark.link}">${bookmark.link.length > 123 ? bookmark.link.slice(0,123) + '...' : bookmark.link}</a>
         </div>
 
         `
