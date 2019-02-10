@@ -26,8 +26,16 @@
 
 ---
 
+### Japanese Tea Room Apartment
+[https://www.nytimes.com/2019/02/06/t-magazine/hiroshi-sugimoto-architect-manhattan.html](https://www.nytimes.com/2019/02/06/t-magazine/hiroshi-sugimoto-architect-manhattan.html)
+
+---
+
+
 ### Art Portfolio
 [https://issuu.com/quocdat7/docs/untitled-2](https://issuu.com/quocdat7/docs/untitled-2)
+
+---
 
 ### Art Portfolio 
 [https://issuu.com/dongtringuyen/docs/por_fn__trang_don_](https://issuu.com/dongtringuyen/docs/por_fn__trang_don_)
