@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/YusofBandar/Bandar_PinBoard#readme",
   "dependencies": {
-    "event-stream": "^4.0.1"
+    "casperjs": "^1.1.4",
+    "event-stream": "^4.0.1",
+    "slimerjs": "^1.0.0"
   }
 }
