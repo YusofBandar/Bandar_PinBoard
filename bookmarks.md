@@ -52,6 +52,11 @@
 
 ---
 
+### Plummeting insect numbers 'threaten collapse of nature'
+[https://amp.theguardian.com/environment/2019/feb/10/plummeting-insect-numbers-threaten-collapse-of-nature?__twitter_impression=true](https://amp.theguardian.com/environment/2019/feb/10/plummeting-insect-numbers-threaten-collapse-of-nature?__twitter_impression=true)
+
+---
+
 ### JavaScript Event Emitter Gist
 [https://gist.github.com/YusofBandar/b9cb4e2ae34f2925d5f288f9d3c6d47c](https://gist.github.com/YusofBandar/b9cb4e2ae34f2925d5f288f9d3c6d47c)
 
