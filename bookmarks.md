@@ -18,6 +18,10 @@
 ### Talk On The Magic Of Story Telling 
 [https://m.youtube.com/watch?v=Nj-hdQMa3uA](https://m.youtube.com/watch?v=Nj-hdQMa3uA)
 
+---
+
+### Richard Feynman Rubber Bands
+[https://www.youtube.com/watch?v=XRxAn2DRzgI](https://www.youtube.com/watch?v=XRxAn2DRzgI)
 
 ---
 
