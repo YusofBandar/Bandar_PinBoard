@@ -51,6 +51,11 @@
 
 ---
 
+### Instant Page (Pre-loading Pages)
+[https://github.com/instantpage/instant.page/blob/master/instantpage.js](https://github.com/instantpage/instant.page/blob/master/instantpage.js)
+
+---
+
 ### Free List of Mqtt Brokers
 [https://github.com/mqtt/mqtt.github.io/wiki/public_brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers)
 
