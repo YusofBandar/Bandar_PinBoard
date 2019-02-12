@@ -192,6 +192,11 @@
 
 ----
 
+### The Border Wall What Has Been Built (Some simple but nice visuals)
+[https://www.nytimes.com/interactive/2019/01/05/us/border-wall.html](https://www.nytimes.com/interactive/2019/01/05/us/border-wall.html)
+
+---
+
 
 ### Naughty Strings
 [https://github.com/minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
