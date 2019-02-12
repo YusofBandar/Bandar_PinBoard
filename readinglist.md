@@ -9,6 +9,9 @@ Sun Tzu
 ### Tao Te Ching
 Lao Tzu
 
+### The Book of Five Rings (五輪書 Go Rin no Sho)
+Miyamoto Musashi
+
 ### Illiad 
 Homer
 
