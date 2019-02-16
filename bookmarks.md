@@ -20,6 +20,11 @@
 
 ---
 
+### Rotation Encoder
+[https://m.youtube.com/watch?v=v4BbSzJ-hz4](https://m.youtube.com/watch?v=v4BbSzJ-hz4)
+
+---
+
 ### Richard Feynman Rubber Bands
 [https://www.youtube.com/watch?v=XRxAn2DRzgI](https://www.youtube.com/watch?v=XRxAn2DRzgI)
 
