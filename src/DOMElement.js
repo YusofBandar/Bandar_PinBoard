@@ -1,7 +1,7 @@
 class DOMElement {
   constructor() {
     this.children = [];
-    this.dom = '';
+    this.dom = '{{child}}';
   }
 
   get domCount() {
@@ -26,11 +26,27 @@ class DOMElement {
     return this.children.length;
   }
 
-  get child(index){
+  child(index){
     return this.children[index];
   }
 
-  render() {}
+  render() {
+    return this._render(this);
+  }
+
+  _render(element){
+    
+
+    let childDom = '';
+
+    for(let i=0,length=element.children.length;i<length;i++){
+      childDom += this._render(element.children[i]);
+    }
+
+    return element.dom.replace('{{child}}',childDom);
+
+  }
 
   addElement(element) {}
 }
+
