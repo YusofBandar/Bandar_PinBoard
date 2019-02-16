@@ -47,6 +47,22 @@ class DomElement {
 
   }
 
-  addElement(element) {}
+  addElement(element) {
+    if(Array.isArray(element)){
+      for(let i=0,length=element.length;i<length;i++){
+        this._addElement(element[i]);
+      }
+    }else{
+      this._addElement(element);
+    }
+  }
+
+  _addElement(element){
+    if(element){
+      this.children.push(element);
+    }
+  }
 }
+
+module.exports = DomElement;
 
