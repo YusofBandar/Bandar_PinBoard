@@ -1,4 +1,4 @@
-class DOMElement {
+class DomElement {
   constructor() {
     this.children = [];
     this.dom = '{{child}}';
