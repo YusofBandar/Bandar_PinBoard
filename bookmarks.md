@@ -45,6 +45,11 @@
 
 ---
 
+### Kiyoshi Koyama Jazz Journalist
+[https://www.nytimes.com/2019/02/17/obituaries/kiyoshi-koyama-dead.html?rref=collection%2Fsectioncollection%2Farts&action=click&contentCollection=arts&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront](https://www.nytimes.com/2019/02/17/obituaries/kiyoshi-koyama-dead.html?rref=collection%2Fsectioncollection%2Farts&action=click&contentCollection=arts&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront)
+
+---
+
 ### Web Based Svg Tool
 [https://editor.method.ac/](https://editor.method.ac/)
 
