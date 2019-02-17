@@ -25,6 +25,11 @@
 
 ---
 
+### The Trapped Knight
+[https://www.youtube.com/watch?v=RGQe8waGJ4w](https://www.youtube.com/watch?v=RGQe8waGJ4w)
+
+---
+
 ### Richard Feynman Rubber Bands
 [https://www.youtube.com/watch?v=XRxAn2DRzgI](https://www.youtube.com/watch?v=XRxAn2DRzgI)
 
