@@ -20,6 +20,11 @@
 
 ---
 
+### Yusof Bandar Projects Portfolio
+[https://issuu.com/yusofbandar/docs/portfolio](https://issuu.com/yusofbandar/docs/portfolio)
+
+---
+
 ### Rotation Encoder
 [https://m.youtube.com/watch?v=v4BbSzJ-hz4](https://m.youtube.com/watch?v=v4BbSzJ-hz4)
 
