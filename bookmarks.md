@@ -30,6 +30,11 @@
 
 ---
 
+### 2D Rotation JavaScript
+[https://stackoverflow.com/questions/17410809/how-to-calculate-rotation-in-2d-in-javascript](https://stackoverflow.com/questions/17410809/how-to-calculate-rotation-in-2d-in-javascript)
+
+---
+
 ### The Trapped Knight
 [https://www.youtube.com/watch?v=RGQe8waGJ4w](https://www.youtube.com/watch?v=RGQe8waGJ4w)
 
