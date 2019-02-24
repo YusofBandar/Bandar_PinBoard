@@ -5,6 +5,9 @@
 
 ---
 
+### History of Women Coders *
+[https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
+
 ### Kaweco Fountain Pens
 [https://www.kaweco-pen.com/](https://www.kaweco-pen.com/)
 
