@@ -45,7 +45,7 @@
 
 ---
 
-### Observable, Alternative To Jupiter Notebooks
+### Observable, JavaScript Alternative To Jupiter Notebooks
 [https://beta.observablehq.com/](https://beta.observablehq.com/)
 
 --- 
