@@ -8,6 +8,8 @@
 ### History of Women Coders *
 [https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 
+---
+
 ### Kaweco Fountain Pens
 [https://www.kaweco-pen.com/](https://www.kaweco-pen.com/)
 
@@ -42,6 +44,11 @@
 [https://www.youtube.com/watch?v=RGQe8waGJ4w](https://www.youtube.com/watch?v=RGQe8waGJ4w)
 
 ---
+
+### Observable, Alternative To Jupiter Notebooks
+[https://beta.observablehq.com/](https://beta.observablehq.com/)
+
+--- 
 
 ### Richard Feynman Rubber Bands
 [https://www.youtube.com/watch?v=XRxAn2DRzgI](https://www.youtube.com/watch?v=XRxAn2DRzgI)
@@ -113,7 +120,7 @@
 
 ---
 
-### Interesting Cirles, Cool Idea for JavaScript Canvas
+### Interesting Circles, Cool Idea for JavaScript Canvas
 [https://9gag.com/gag/a9Ky7Do](https://9gag.com/gag/a9Ky7Do)
 
 ---
