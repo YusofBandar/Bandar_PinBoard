@@ -60,6 +60,11 @@
 
 ---
 
+### Split Sex Gynabdromorph
+[https://www.nytimes.com/2019/02/25/science/split-sex-gynandromorph.html](https://www.nytimes.com/2019/02/25/science/split-sex-gynandromorph.html)
+
+---
+
 ### Japanese Tea Room Apartment
 [https://www.nytimes.com/2019/02/06/t-magazine/hiroshi-sugimoto-architect-manhattan.html](https://www.nytimes.com/2019/02/06/t-magazine/hiroshi-sugimoto-architect-manhattan.html)
 
