@@ -45,6 +45,11 @@
 
 ---
 
+### D3 The Trapped Knight
+[https://observablehq.com/@yusofbandar/the-trapped-knight](https://observablehq.com/@yusofbandar/the-trapped-knight)
+
+---
+
 ### Observable, JavaScript Alternative To Jupiter Notebooks
 [https://beta.observablehq.com/](https://beta.observablehq.com/)
 
