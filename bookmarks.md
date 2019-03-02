@@ -30,6 +30,9 @@
 
 ---
 
+### Yusof Bandar Photo A Day
+[https://www.flickr.com/photos/156667622@N04/with/46336979105/](https://www.flickr.com/photos/156667622@N04/with/46336979105/)
+
 ### Rotation Encoder
 [https://m.youtube.com/watch?v=v4BbSzJ-hz4](https://m.youtube.com/watch?v=v4BbSzJ-hz4)
 
