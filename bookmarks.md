@@ -125,7 +125,12 @@
 
 ---
 
-### Plummeting insect numbers 'threaten collapse of nature'
+### Hyatt Place Denver
+[https://www.hyatt.com/en-US/hotel/colorado/hyatt-place-denver-tech-center/denzt](https://www.hyatt.com/en-US/hotel/colorado/hyatt-place-denver-tech-center/denzt)
+
+---
+
+### Plummeting insect numbers 'threaten collapse of nature' *
 [https://amp.theguardian.com/environment/2019/feb/10/plummeting-insect-numbers-threaten-collapse-of-nature?__twitter_impression=true](https://amp.theguardian.com/environment/2019/feb/10/plummeting-insect-numbers-threaten-collapse-of-nature?__twitter_impression=true)
 
 ---
