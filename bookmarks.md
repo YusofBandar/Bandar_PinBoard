@@ -85,6 +85,11 @@
 
 ---
 
+### Pi 3.5inch (480x320) Display Dimensions
+[https://www.waveshare.com/img/devkit/LCD/3.5inch-RPi-LCD-A/3.5inch-RPi-LCD-A-size.jpg](https://www.waveshare.com/img/devkit/LCD/3.5inch-RPi-LCD-A/3.5inch-RPi-LCD-A-size.jpg)
+
+---
+
 ### How a Book Gets the Perfect Cover
 [https://www.nytimes.com/2019/02/06/books/cover-stories.html?rref=collection%2Fsectioncollection%2Farts&action=click&contentCollection=arts&region=stream&module=stream_unit&version=latest&contentPlacement=9&pgtype=sectionfront](https://www.nytimes.com/2019/02/06/books/cover-stories.html?rref=collection%2Fsectioncollection%2Farts&action=click&contentCollection=arts&region=stream&module=stream_unit&version=latest&contentPlacement=9&pgtype=sectionfront)
 
