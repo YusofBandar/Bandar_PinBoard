@@ -10,6 +10,11 @@
 
 ---
 
+### Crosswords Tips
+[https://www.nytimes.com/guides/crosswords/how-to-solve-a-crossword-puzzle?rref=collection%2Fcolumn%2Fwordplay&action=click&contentCollection=crosswords&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=collection&redirect=true](https://www.nytimes.com/guides/crosswords/how-to-solve-a-crossword-puzzle?rref=collection%2Fcolumn%2Fwordplay&action=click&contentCollection=crosswords&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=collection&redirect=true)
+
+---
+
 ### Kaweco Fountain Pens
 [https://www.kaweco-pen.com/](https://www.kaweco-pen.com/)
 
