@@ -34,4 +34,7 @@ Alex Reinhart
 Stephen King
 
 ### Envisioning Information
-Envisioning Information
+Edward R. Tufte
+
+### Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
+Pedro Moreira Santos
