@@ -25,6 +25,11 @@
 
 ---
 
+### ‘Magic of nature’: Disney’s smart birdhouses reveal the secret lives of purple martins
+[https://news.microsoft.com/transform/disneys-smart-birdhouses-reveal-the-secret-lives-of-purple-martins/](https://news.microsoft.com/transform/disneys-smart-birdhouses-reveal-the-secret-lives-of-purple-martins/)
+
+---
+
 ### Talk On The Magic Of Story Telling 
 [https://m.youtube.com/watch?v=Nj-hdQMa3uA](https://m.youtube.com/watch?v=Nj-hdQMa3uA)
 
