@@ -70,6 +70,11 @@
 
 ---
 
+### Tech Companies Revenue Origin
+[https://9gag.com/gag/aGZ2pMZ](https://9gag.com/gag/aGZ2pMZ)
+
+---
+
 ### The Trapped Knight
 [https://www.youtube.com/watch?v=RGQe8waGJ4w](https://www.youtube.com/watch?v=RGQe8waGJ4w)
 
