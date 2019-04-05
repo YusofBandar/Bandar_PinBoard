@@ -15,6 +15,11 @@
 
 ---
 
+### Yoshiyuki's Mikami WWF campaign
+[https://www.reddit.com/r/DesignPorn/comments/96191b/these_pictures_from_a_wwf_campaign_are_composed/](https://www.reddit.com/r/DesignPorn/comments/96191b/these_pictures_from_a_wwf_campaign_are_composed/)
+
+---
+
 ### Kaweco Fountain Pens
 [https://www.kaweco-pen.com/](https://www.kaweco-pen.com/)
 
