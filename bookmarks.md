@@ -495,3 +495,8 @@
 
 ### unhosted web apps
 [https://unhosted.org/](https://unhosted.org/)
+
+---
+
+### The Intelligence of Plants
+[https://www.theparisreview.org/blog/2019/09/26/the-intelligence-of-plants/](https://www.theparisreview.org/blog/2019/09/26/the-intelligence-of-plants/)
