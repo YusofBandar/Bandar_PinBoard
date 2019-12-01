@@ -500,14 +500,3 @@
 
 ### The Intelligence of Plants
 [https://www.theparisreview.org/blog/2019/09/26/the-intelligence-of-plants/](https://www.theparisreview.org/blog/2019/09/26/the-intelligence-of-plants/)
-
-
----
-
-### HC-06 Bluetooth Module on Arduino Nano - Arduino Stack Exchange
-[https://arduino.stackexchange.com/questions/20999/hc-06-bluetooth-module-on-arduino-nano](https://arduino.stackexchange.com/questions/20999/hc-06-bluetooth-module-on-arduino-nano)
-
----
-
-### HC-06 Bluetooth Module on Arduino Nano - Arduino Stack Exchange
-[https://arduino.stackexchange.com/questions/20999/hc-06-bluetooth-module-on-arduino-nano](https://arduino.stackexchange.com/questions/20999/hc-06-bluetooth-module-on-arduino-nano)
