@@ -511,3 +511,8 @@
 
 ### GitHub - jwilber/USDA_Pomological_Watercolors: Open data for the USDA Pomological Watercolor Collection
 [https://github.com/jwilber/USDA_Pomological_Watercolors](https://github.com/jwilber/USDA_Pomological_Watercolors)
+
+---
+
+### mathematics - Controlling a robot blindfolded on a 9x9 grid - Puzzling Stack Exchange
+[https://puzzling.stackexchange.com/questions/91671/controlling-a-robot-blindfolded-on-a-9x9-grid](https://puzzling.stackexchange.com/questions/91671/controlling-a-robot-blindfolded-on-a-9x9-grid)
