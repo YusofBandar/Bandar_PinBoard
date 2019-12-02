@@ -516,3 +516,8 @@
 
 ### mathematics - Controlling a robot blindfolded on a 9x9 grid - Puzzling Stack Exchange
 [https://puzzling.stackexchange.com/questions/91671/controlling-a-robot-blindfolded-on-a-9x9-grid](https://puzzling.stackexchange.com/questions/91671/controlling-a-robot-blindfolded-on-a-9x9-grid)
+
+---
+
+### Steve Jobs MIT Class: What he learnt after he was fired from Apple? - YouTube
+[https://www.youtube.com/watch?v=YXUhLbV8Nrg](https://www.youtube.com/watch?v=YXUhLbV8Nrg)
