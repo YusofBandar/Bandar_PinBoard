@@ -521,3 +521,8 @@
 
 ### Steve Jobs MIT Class: What he learnt after he was fired from Apple? - YouTube
 [https://www.youtube.com/watch?v=YXUhLbV8Nrg](https://www.youtube.com/watch?v=YXUhLbV8Nrg)
+
+---
+
+### In Greenwich Village, the Perfect New York Bookstore Lives On - The New York Times
+[https://www.nytimes.com/2019/11/25/t-magazine/three-lives-bookstore.html?action=click&module=Features&pgtype=Homepage](https://www.nytimes.com/2019/11/25/t-magazine/three-lives-bookstore.html?action=click&module=Features&pgtype=Homepage)
