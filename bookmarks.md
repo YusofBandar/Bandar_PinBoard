@@ -506,3 +506,8 @@
 
 ### HC-06 Bluetooth Module on Arduino Nano - Arduino Stack Exchange
 [https://arduino.stackexchange.com/questions/20999/hc-06-bluetooth-module-on-arduino-nano](https://arduino.stackexchange.com/questions/20999/hc-06-bluetooth-module-on-arduino-nano)
+
+---
+
+### GitHub - jwilber/USDA_Pomological_Watercolors: Open data for the USDA Pomological Watercolor Collection
+[https://github.com/jwilber/USDA_Pomological_Watercolors](https://github.com/jwilber/USDA_Pomological_Watercolors)
