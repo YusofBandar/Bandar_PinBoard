@@ -526,3 +526,8 @@
 
 ### In Greenwich Village, the Perfect New York Bookstore Lives On - The New York Times
 [https://www.nytimes.com/2019/11/25/t-magazine/three-lives-bookstore.html?action=click&module=Features&pgtype=Homepage](https://www.nytimes.com/2019/11/25/t-magazine/three-lives-bookstore.html?action=click&module=Features&pgtype=Homepage)
+
+---
+
+### Facebook’s Crisis Management Algorithm Runs on Outrage
+[https://www.bloomberg.com/features/2019-facebook-neverending-crisis/](https://www.bloomberg.com/features/2019-facebook-neverending-crisis/)
