@@ -531,3 +531,8 @@
 
 ### Facebook’s Crisis Management Algorithm Runs on Outrage
 [https://www.bloomberg.com/features/2019-facebook-neverending-crisis/](https://www.bloomberg.com/features/2019-facebook-neverending-crisis/)
+
+---
+
+### The New York City Subway Map as You’ve Never Seen It Before - The New York Times
+[https://www.nytimes.com/interactive/2019/12/02/nyregion/nyc-subway-map.html](https://www.nytimes.com/interactive/2019/12/02/nyregion/nyc-subway-map.html)
