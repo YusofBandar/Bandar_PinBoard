@@ -536,3 +536,8 @@
 
 ### The New York City Subway Map as You’ve Never Seen It Before - The New York Times
 [https://www.nytimes.com/interactive/2019/12/02/nyregion/nyc-subway-map.html](https://www.nytimes.com/interactive/2019/12/02/nyregion/nyc-subway-map.html)
+
+---
+
+### Is Data Collection Evil?
+[https://0x65.dev/blog/2019-12-02/is-data-collection-evil.html](https://0x65.dev/blog/2019-12-02/is-data-collection-evil.html)
