@@ -541,3 +541,8 @@
 
 ### Is Data Collection Evil?
 [https://0x65.dev/blog/2019-12-02/is-data-collection-evil.html](https://0x65.dev/blog/2019-12-02/is-data-collection-evil.html)
+
+---
+
+### Opinion | A Better Internet Is Waiting for Us - The New York Times
+[https://www.nytimes.com/interactive/2019/11/30/opinion/social-media-future.html](https://www.nytimes.com/interactive/2019/11/30/opinion/social-media-future.html)
