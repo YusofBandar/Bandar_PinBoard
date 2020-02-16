@@ -2,9 +2,9 @@ const render = (title, author) => {
     return (
         <div class="bookmark">
             <div class="bookmarkTitle">
-                <a class="bookmarkTitleLink">${book.title}</a>
+                <a class="bookmarkTitleLink">{book.title}</a>
             </div>
-            <a class="bookmarkURI">${book.author}</a>
+            <a class="bookmarkURI">{book.author}</a>
         </div>
         );
 }
