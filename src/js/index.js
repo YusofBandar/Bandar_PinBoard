@@ -10,15 +10,26 @@ const ReactDOMServer = require("react-dom/server");
 const React = require("react");
 
 read.readBookmarks("../bookmarks.md", bookmarks => {
-  const DOM = ReactDOMServer.renderToStaticMarkup(
+  const bookmarksDOM = ReactDOMServer.renderToStaticMarkup(
     page.render(
       <React.Fragment>
         {bookmarks.map(({ link, title }) => bookmark.render(link, title))}
       </React.Fragment>
     )
   );
+  fs.writeFileSync("../static/index.html", bookmarksDOM);
 
-  fs.writeFileSync("../static/index.html", DOM);
+  const favouriteDOM = ReactDOMServer.renderToStaticMarkup(
+    page.render(
+      <React.Fragment>
+        {bookmarks
+          .filter(({ favourite }) => favourite)
+          .map(({ link, title }) => bookmark.render(link, title))}
+      </React.Fragment>
+    )
+  );
+
+  fs.writeFileSync("../static/favourite.html", favouriteDOM);
 });
 
 read.readBooks("../readinglist.md", books => {
@@ -30,5 +41,5 @@ read.readBooks("../readinglist.md", books => {
     )
   );
 
-  fs.writeFileSync('../static/readingList.html', DOM);
+  fs.writeFileSync("../static/readingList.html", DOM);
 });
