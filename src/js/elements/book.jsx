@@ -1,11 +1,11 @@
 const React = require("react")
 const render = (title, author) => {
     return (
-        <div class="bookmark">
-            <div class="bookmarkTitle">
-                <a class="bookmarkTitleLink">{title}</a>
+        <div className="bookmark">
+            <div className="bookmarkTitle">
+                <a className="bookmarkTitleLink">{title}</a>
             </div>
-            <a class="bookmarkURI">{author}</a>
+            <a className="bookmarkURI">{author}</a>
         </div>
         );
 }
