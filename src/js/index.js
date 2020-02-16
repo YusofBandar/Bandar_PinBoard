@@ -1,5 +1,5 @@
-const fs = require('fs');
-const es = require('event-stream');
+const fs = require("fs");
+const es = require("event-stream");
 
 const read = require("./read");
 const bookmark = require("./elements/bookmark");
@@ -8,7 +8,7 @@ const page = require("./elements/page");
 const ReactDOMServer = require("react-dom/server");
 const React = require("react");
 
-read.readBookmarks("../bookmarks.md", function(bookmarks) {
+read.readBookmarks("../bookmarks.md", bookmarks => {
   const DOM = ReactDOMServer.renderToStaticMarkup(
     page.render(
       <React.Fragment>
