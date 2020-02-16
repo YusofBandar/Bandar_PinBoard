@@ -2,6 +2,7 @@ const fs = require('fs');
 const es = require('event-stream');
 
 
+
 function readBookmarks(filename, callback) {
     let bookmarks = [];
 
@@ -202,11 +203,12 @@ function generateFinalPage(content) {
 
 
 
-readBookmarks('../bookmarks.md', function (bookmarks) {
+/*readBookmarks('../bookmarks.md', function (bookmarks) {
     generateIndexPage(bookmarks)
     generateFavouritePage(bookmarks)
 })
 
 readBooks('../readinglist.md', function (books) {
     generateReadingPage(books);
-})
+})*/
+
