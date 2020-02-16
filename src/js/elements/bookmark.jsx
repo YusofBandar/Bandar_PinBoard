@@ -1,3 +1,4 @@
+const React = require("react")
 const render = (link, title) => {
     return (
         <div class="bookmark">
