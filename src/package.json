@@ -5,7 +5,8 @@
   "main": "static_html_gen.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "babel --plugins @babel/plugin-transform-react-jsx ./js  -d lib"
+    "prestart": "babel --plugins @babel/plugin-transform-react-jsx ./js  -d lib",
+    "start": "node ./lib/index.js"
   },
   "repository": {
     "type": "git",
